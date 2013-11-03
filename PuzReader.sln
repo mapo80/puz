@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuzReader", "PuzReader.csproj", "{EAD22A44-5577-4FD9-9233-C9683F8C3982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD22A44-5577-4FD9-9233-C9683F8C3982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD22A44-5577-4FD9-9233-C9683F8C3982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD22A44-5577-4FD9-9233-C9683F8C3982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD22A44-5577-4FD9-9233-C9683F8C3982}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
